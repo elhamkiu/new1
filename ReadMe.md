@@ -1,2 +1,2 @@
 # new my Read me file elham right it ....
-[google](www.google.com)
+[google](http://www.google.com)
